@@ -1,0 +1,1530 @@
+﻿Log file open, 01/31/17 15:56:17
+LogInit:Display: Running engine for game: MyWork
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2062215355) SRandInit(-2062215355).
+LogInit: Using version manifest at CL 0 with build ID '0e8fb53d-099d-4adb-9db5-2e6bc9b74366'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.072092
+LogPluginManager: Loaded Plugin Paper2D, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin TwitchLiveStreaming, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Ue4Games/UnrealEngine4/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogModuleManager:Warning: No filename provided for module XMPP
+LogModuleManager:Warning: ModuleManager: Unable to load module 'XMPP' because the file 'D:/Ue4Games/UnrealEngine4/Engine/Binaries/Win64/' was not found.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-0
+LogInit: Engine Version: 4.14.3-0+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-0+++UE4+Release-4.14
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan 25 2017 11:48:00
+LogInit: Compiled with Visual C++: 19.00.23918.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/Ue4Games/UnrealEngine4/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.31-11.56.17:527][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.31-11.56.17:527][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.31-11.56.17:533][  0]LogInit: Computer: LORDDROASM2
+[2017.01.31-11.56.17:533][  0]LogInit: User: user
+[2017.01.31-11.56.17:533][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.31-11.56.17:533][  0]LogInit: High frequency timer resolution =3.215360 MHz
+[2017.01.31-11.56.17:534][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.31-11.56.17:534][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.31-11.56.17:534][  0]LogMemory: Process Physical Memory: 261.79 MB used, 261.79 MB peak
+[2017.01.31-11.56.17:534][  0]LogMemory: Process Virtual Memory: 261.59 MB used, 261.59 MB peak
+[2017.01.31-11.56.17:534][  0]LogMemory: Physical Memory: 3128.21 MB used,  5009.93 MB free, 8138.15 MB total
+[2017.01.31-11.56.17:534][  0]LogMemory: Virtual Memory: 647.30 MB used,  5009.93 MB free, 8388608.00 MB total
+[2017.01.31-11.56.17:561][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.31-11.56.18:119][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.31-11.56.18:139][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 650' (Feature Level 11_0)
+[2017.01.31-11.56.18:139][  0]LogD3D11RHI:       964/0/3072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.31-11.56.18:139][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.31-11.56.18:139][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.31-11.56.18:139][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.31-11.56.18:142][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.31-11.56.18:142][  0]LogD3D11RHI:     GPU DeviceId: 0xfc6 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.31-11.56.18:142][  0]LogWindows: EnumDisplayDevices:
+[2017.01.31-11.56.18:142][  0]LogWindows:    0. 'NVIDIA GeForce GTX 650' (P:1 D:1)
+[2017.01.31-11.56.18:143][  0]LogWindows:    1. 'NVIDIA GeForce GTX 650' (P:0 D:0)
+[2017.01.31-11.56.18:143][  0]LogWindows:    2. 'NVIDIA GeForce GTX 650' (P:0 D:0)
+[2017.01.31-11.56.18:143][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.01.31-11.56.18:143][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 650
+[2017.01.31-11.56.18:143][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.01.31-11.56.18:143][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.01.31-11.56.18:143][  0]LogRHI: Texture pool is 675 MB (70% of 964 MB)
+[2017.01.31-11.56.18:151][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.01.31-11.56.18:151][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.31-11.56.18:168][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.01.31-11.56.18:168][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (../../../../Unreal/MyWork/Intermediate/Shaders/WorkingDirectory/9776/).
+[2017.01.31-11.56.18:168][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/79D06C514CE7D8541DB7328AA6701280/'.
+[2017.01.31-11.56.18:168][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.31-11.56.19:020][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.31-11.56.19:054][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.31-11.56.19:086][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.31-11.56.19:119][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.31-11.56.19:144][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.31-11.56.19:177][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.31-11.56.19:210][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.31-11.56.19:243][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.31-11.56.19:268][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.31-11.56.19:301][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.31-11.56.19:333][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.31-11.56.19:365][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.31-11.56.19:398][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.31-11.56.19:430][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.31-11.56.19:462][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.31-11.56.19:494][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.31-11.56.19:526][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.31-11.56.19:548][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.31-11.56.19:602][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.31-11.56.19:623][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.31-11.56.19:623][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache:Display: Starting with empty Boot cache
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal/MyWork/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.31-11.56.19:852][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2017.01.31-11.56.19:864][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2017.01.31-11.56.19:864][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2017.01.31-11.56.19:864][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2017.01.31-11.56.20:116][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.31-11.56.20:128][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.31-11.56.20:405][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.31-11.56.20:413][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.31-11.56.20:413][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.31-11.56.20:413][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.01.31-11.56.23:089][  0]LogNetVersion: GetLocalNetworkVersion: CL: 0, ProjectName: mywork, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 4292717938
+[2017.01.31-11.56.23:205][  0]LogAssetRegistry: FAssetRegistry took 0.0226 seconds to start up
+[2017.01.31-11.56.23:245][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.029162 seconds
+[2017.01.31-11.56.23:250][  0]LogUObjectArray: 31905 objects as part of root set at end of initial load.
+[2017.01.31-11.56.23:250][  0]LogUObjectAllocator: 6929136 out of 0 bytes used by permanent object pool.
+[2017.01.31-11.56.23:250][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.31-11.56.23:283][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.31-11.56.23:711][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.31-11.56.23:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.31-11.56.23:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.31-11.56.24:463][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.31-11.56.24:511][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.31-11.56.24:808][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.31-11.56.25:501][  0]SourceControl: Info Source control is disabled
+[2017.01.31-11.56.25:525][  0]SourceControl: Info Source control is disabled
+[2017.01.31-11.56.25:556][  0]SourceControl: Info Source control is disabled
+[2017.01.31-11.56.25:584][  0]SourceControl: Info Source control is disabled
+[2017.01.31-11.56.26:529][  0]LogEngine: Initializing Engine...
+[2017.01.31-11.56.26:529][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.31-11.56.28:339][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.31-11.56.28:351][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-11.56.28:360][  0]LogInit: FAudioDevice initialized.
+[2017.01.31-11.56.28:383][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB ../../../../Unreal/MyWork/DerivedDataCache/Boot.ddc.
+[2017.01.31-11.56.28:389][  0]LogInit: Texture streaming: Enabled
+[2017.01.31-11.56.28:491][  0]LogInit: Transaction tracking system initialized
+[2017.01.31-11.56.28:675][  0]BlueprintLog: New page: Editor Load
+[2017.01.31-11.56.29:224][  0]LocalizationService: Info Localization service is disabled
+[2017.01.31-11.56.29:616][  0]LogConsoleResponse:Display: 
+[2017.01.31-11.56.29:726][  0]LogFileCache: Scanning file cache for directory 'D:/Ue4Games/Unreal/MyWork/Content/' took 0.01s
+[2017.01.31-11.56.29:726][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.31-11.56.29:726][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.31-11.56.30:298][  0]SourceControl: Info Source control is disabled
+[2017.01.31-11.56.30:298][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.31-11.56.30:388][  0]LightingResults: New page: Lighting Build
+[2017.01.31-11.56.30:427][  0]MapCheck: New page: Map Check
+[2017.01.31-11.56.30:427][  0]LightingResults: New page: Lighting Build
+[2017.01.31-11.56.30:960][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.31-11.56.30:960][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.31-11.56.30:964][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.31-11.56.30:968][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.31-11.56.30:996][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 27.609ms to complete.
+[2017.01.31-11.56.30:996][  0]LogFileHelpers: Loading map 'Template_Default' took 0.699
+[2017.01.31-11.56.31:060][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-11.56.31:147][  0]LogCollectionManager: Loaded 0 collections in 0.000683 seconds
+[2017.01.31-11.56.31:300][  0]LogFileCache: Scanning file cache for directory 'D:/Ue4Games/Unreal/MyWork/Saved/Collections/' took 0.01s
+[2017.01.31-11.56.31:300][  0]LogFileCache: Scanning file cache for directory 'D:/Ue4Games/Unreal/MyWork/Content/Developers/user/Collections/' took 0.01s
+[2017.01.31-11.56.31:300][  0]LogFileCache: Scanning file cache for directory 'D:/Ue4Games/Unreal/MyWork/Content/Collections/' took 0.01s
+[2017.01.31-11.56.31:301][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.31-11.56.31:310][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2190 classes and 428 folders.
+[2017.01.31-11.56.31:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.31-11.56.31:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.31-11.56.31:334][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.01.31-11.56.31:367][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.01.31-11.56.31:398][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.01.31-11.56.31:457][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.31-11.56.31:461][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.31-11.56.31:507][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.31-11.56.31:508][  0]LogLoad: (Engine Initialization) Total time: 14.91 seconds
+[2017.01.31-11.56.31:508][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2017.01.31-11.56.31:508][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.01.31-11.56.31:517][  0]LogOcInput: OculusInput pre-init called
+[2017.01.31-11.56.31:671][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.31-11.56.31:816][  0]LogRenderer: Reallocating scene render targets to support 876x868 NumSamples 1 (Frame:2).
+[2017.01.31-11.56.36:676][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.31-11.56.41:869][651]LogAssetRegistry: Asset discovery search completed in 18.6863 seconds
+[2017.01.31-11.56.41:869][651]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.31-11.56.41:869][651]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2017.01.31-11.56.48:061][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.31-11.56.48:478][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.31-11.56.49:360][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.31-11.56.51:231][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.31-11.56.52:498][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.01.31-11.56.53:704][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.31-11.57.25:400][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.01.31-11.57.25:982][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.01.31-11.57.27:016][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.31-12.01.24:074][632]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.01.31-12.02.08:034][418]BlueprintLog: New page: Compile MyGg
+[2017.01.31-12.02.15:237][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-12.02.15:259][974]LogSavePackage: Save=21.26ms
+[2017.01.31-12.02.15:259][974]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGg4692859544EB4DE1E20C41B770CBE082.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-12.02.15:260][974]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-12.02.40:112][230]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.01.31-12.06.32:074][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../Unreal/MyWork/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.01.31-12.06.32:099][938]LogSavePackage: Save=24.76ms
+[2017.01.31-12.06.32:099][938]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/Untitled_1_Auto12B9CF33A4D95E2CC8D57129C45E7A67D.tmp' to '../../../../Unreal/MyWork/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.01.31-12.06.32:099][938]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.01.31-12.06.32:117][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.061
+[2017.01.31-12.06.32:117][938]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2017.01.31-12.06.32:119][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bp/MyGgAnim] ([1] browsable assets)...
+[2017.01.31-12.06.32:168][938]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Bp/MyGgAnim.MyGgAnim]
+[2017.01.31-12.06.32:168][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bp/MyGgAnim]
+[2017.01.31-12.06.32:168][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.01.31-12.06.32:181][938]LogSavePackage: Save=11.81ms
+[2017.01.31-12.06.32:181][938]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim_Auto1398DDCA6472BD456C62A7A8B64289AB2.tmp' to '../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto1.uasset'
+[2017.01.31-12.06.32:181][938]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto1.uasset
+[2017.01.31-12.06.32:181][938]LogFileHelpers: Auto-saving content packages took 0.063
+[2017.01.31-12.23.45:735][ 39]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-12.23.45:736][ 39]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-12.26.14:585][858]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-12.26.14:585][858]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-12.26.48:926][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.016
+[2017.01.31-12.26.48:927][ 23]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bp/MyGgAnim] ([1] browsable assets)...
+[2017.01.31-12.26.48:987][ 23]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Bp/MyGgAnim.MyGgAnim]
+[2017.01.31-12.26.48:987][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bp/MyGgAnim]
+[2017.01.31-12.26.48:987][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.01.31-12.26.49:016][ 23]LogSavePackage: Save=14.35ms
+[2017.01.31-12.26.49:016][ 23]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim_Auto2E71ADEE3472898B66402428EE85B288C.tmp' to '../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto2.uasset'
+[2017.01.31-12.26.49:016][ 23]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Saved/Autosaves/Game/Bp/MyGgAnim_Auto2.uasset
+[2017.01.31-12.26.49:016][ 23]LogFileHelpers: Auto-saving content packages took 0.090
+[2017.01.31-12.29.37:507][784]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2017.01.31-12.29.37:629][784]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.01.31-12.29.37:944][784]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.01.31-12.29.46:772][440]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2017.01.31-12.30.06:906][799]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2017.01.31-12.30.36:237][619]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2017.01.31-12.30.36:474][619]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.01.31-12.30.51:338][805]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2017.01.31-12.30.51:616][824]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2017.01.31-12.30.51:632][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2017.01.31-12.30.51:688][829]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2017.01.31-12.30.51:947][845]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2017.01.31-12.30.51:962][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2017.01.31-12.30.51:976][847]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2017.01.31-12.30.51:987][848]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2017.01.31-12.30.52:061][854]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2017.01.31-12.30.53:341][940]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2017.01.31-12.30.57:092][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2017.01.31-12.31.00:219][403]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2017.01.31-12.31.00:251][405]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2017.01.31-12.31.00:324][410]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2017.01.31-12.31.00:414][416]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2017.01.31-12.31.05:355][781]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2017.01.31-12.31.06:429][857]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2017.01.31-12.31.07:345][925]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2017.01.31-12.31.15:942][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2017.01.31-12.31.16:102][556]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2017.01.31-12.31.17:445][654]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2017.01.31-12.31.18:244][713]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2017.01.31-12.31.18:922][761]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2017.01.31-12.31.20:001][839]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2017.01.31-12.31.38:746][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2017.01.31-12.32.31:192][859]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_7' or package '/Engine/Transient'.
+[2017.01.31-12.33.43:996][518]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2017.01.31-12.33.44:114][518]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.01.31-12.35.34:992][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/NewBlendSpace1D" FILE="../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset" SILENT=true
+[2017.01.31-12.35.35:001][276]LogSavePackage: Save=8.88ms
+[2017.01.31-12.35.35:001][276]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewBlendSpace1D80B2C2FC42595334DC044D902ED17FD0.tmp' to '../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset'
+[2017.01.31-12.35.35:002][276]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset
+[2017.01.31-12.35.36:176][324]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2017.01.31-12.36.39:462][ 85]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-12.36.39:549][ 85]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.01.31-12.36.40:379][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-12.36.40:402][124]LogSavePackage: Save=13.80ms
+[2017.01.31-12.36.40:402][124]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnimA0D0423340BFE3C3510E60A996386651.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-12.36.40:403][124]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-12.37.24:496][869]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.01.31-12.37.49:095][350]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-12.37.49:944][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-12.37.49:960][386]LogSavePackage: Save=14.51ms
+[2017.01.31-12.37.49:960][386]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim20C0103A47ED8797672CF5AC21752B50.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-12.37.49:961][386]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-12.39.00:742][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.31-12.39.08:836][ 31]LogEditorViewport: Clicking on Actor (LMB): MyGg_C (MyGg)
+[2017.01.31-12.39.23:743][804]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.31-12.39.27:284][ 49]BlueprintLog: New page: Compile MyGg
+[2017.01.31-12.39.27:318][ 49]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.MyGg_2.CollisionCylinder is already used by CapsuleComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.REINST_MyGg_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.39.27:318][ 49]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.MyGg_2.Arrow is already used by ArrowComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.REINST_MyGg_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.39.27:318][ 49]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.MyGg_2.CharMoveComp is already used by CharacterMovementComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.REINST_MyGg_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.39.27:318][ 49]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.MyGg_2.CharacterMesh0 is already used by SkeletalMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.REINST_MyGg_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.39.28:092][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-12.39.28:115][ 73]LogSavePackage: Save=21.79ms
+[2017.01.31-12.39.28:115][ 73]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGg0339819740398A68878E73A71B4995D5.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-12.39.28:116][ 73]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-12.39.48:752][368]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.39.48:758][368]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.31-12.39.48:758][368]LogPlayLevel: [PlayLevel] Compiling MyGgAnim before play...
+[2017.01.31-12.39.48:855][368]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (1 blueprints)
+[2017.01.31-12.39.48:856][368]PIE: New page: PIE session: Untitled_1 (Jan 31, 2017, 8:39:48 PM)
+[2017.01.31-12.39.48:856][368]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.01.31-12.39.48:858][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001965s)
+[2017.01.31-12.39.48:858][368]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.31-12.39.48:859][368]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2017.01.31-12.39.48:859][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003434s)
+[2017.01.31-12.39.48:882][368]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.39.48:890][368]LogInit: FAudioDevice initialized.
+[2017.01.31-12.39.48:946][368]LogLoad: Game class is 'GameModeBase'
+[2017.01.31-12.39.48:948][368]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.01.31-16.39.48
+[2017.01.31-12.39.48:996][368]LogWorld: Bringing up level for play took: 0.048871
+[2017.01.31-12.39.49:033][368]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.01.31-12.39.49:034][368]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.153
+[2017.01.31-12.40.39:543][490]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-12.40.39:543][490]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.40.39:543][490]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-12.40.39:543][490]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.40.39:543][490]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-12.40.39:560][491]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-12.40.42:900][687]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.31-12.40.57:502][210]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-12.40.57:502][210]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.40.57:502][210]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-12.40.57:502][210]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.40.57:502][210]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-12.40.57:513][211]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-12.40.57:514][211]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-12.41.01:916][480]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.31-12.41.08:359][860]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.41.08:367][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.41.08:368][860]PIE: New page: PIE session: Untitled_1 (Jan 31, 2017, 8:41:08 PM)
+[2017.01.31-12.41.08:368][860]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.01.31-12.41.08:370][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002131s)
+[2017.01.31-12.41.08:370][860]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.31-12.41.08:370][860]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2017.01.31-12.41.08:371][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002951s)
+[2017.01.31-12.41.08:394][860]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.41.08:403][860]LogInit: FAudioDevice initialized.
+[2017.01.31-12.41.08:431][860]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.41.08:434][860]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.01.31-16.41.08
+[2017.01.31-12.41.08:434][860]LogWorld: Bringing up level for play took: 0.001933
+[2017.01.31-12.41.08:435][860]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.447
+[2017.01.31-12.41.13:532][213]LogEditorViewport: Clicking on Actor (LMB): MyGg_C (MyGg)
+[2017.01.31-12.41.17:977][477]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.41.17:985][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.41.17:985][477]PIE: New page: PIE session: Untitled_1 (Jan 31, 2017, 8:41:17 PM)
+[2017.01.31-12.41.17:985][477]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.01.31-12.41.17:987][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001934s)
+[2017.01.31-12.41.17:987][477]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.31-12.41.17:987][477]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2017.01.31-12.41.17:987][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002604s)
+[2017.01.31-12.41.18:010][477]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.41.18:018][477]LogInit: FAudioDevice initialized.
+[2017.01.31-12.41.18:052][477]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.41.18:055][477]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.01.31-16.41.18
+[2017.01.31-12.41.18:056][477]LogWorld: Bringing up level for play took: 0.002415
+[2017.01.31-12.41.18:057][477]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.825
+[2017.01.31-12.41.22:699][792]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.01.31-12.41.25:536][995]Cmd: DELETE
+[2017.01.31-12.41.25:536][995]Cmd: ACTOR DELETE
+[2017.01.31-12.41.25:537][995]LogEditorActor: Deleted Actor: PlayerStart
+[2017.01.31-12.41.25:551][995]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.01.31-12.41.27:629][115]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.41.27:636][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.41.27:636][115]PIE: New page: PIE session: Untitled_1 (Jan 31, 2017, 8:41:27 PM)
+[2017.01.31-12.41.27:636][115]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.01.31-12.41.27:638][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2017.01.31-12.41.27:639][115]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.31-12.41.27:639][115]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.01.31-12.41.27:639][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003188s)
+[2017.01.31-12.41.27:660][115]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.41.27:669][115]LogInit: FAudioDevice initialized.
+[2017.01.31-12.41.27:698][115]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.41.27:701][115]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.01.31-16.41.27
+[2017.01.31-12.41.27:701][115]LogWorld: Bringing up level for play took: 0.002372
+[2017.01.31-12.41.27:702][115]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.821
+[2017.01.31-12.41.41:186][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-12.41.41:231][497]LogSavePackage: Save=30.73ms
+[2017.01.31-12.41.41:231][497]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMap2252354E417ED02ECD28A9A0892CC86B.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-12.41.41:233][497]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-12.41.41:243][497]LogFileHelpers: Saving map 'NewMap' took 0.151
+[2017.01.31-12.41.42:912][600]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.41.42:919][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.41.42:919][600]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:41:42 PM)
+[2017.01.31-12.41.42:919][600]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.41.42:921][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002098s)
+[2017.01.31-12.41.42:922][600]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.41.42:922][600]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2017.01.31-12.41.42:922][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002813s)
+[2017.01.31-12.41.42:947][600]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.41.42:954][600]LogInit: FAudioDevice initialized.
+[2017.01.31-12.41.42:980][600]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.41.42:983][600]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.41.42
+[2017.01.31-12.41.42:984][600]LogWorld: Bringing up level for play took: 0.002480
+[2017.01.31-12.41.42:985][600]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.103
+[2017.01.31-12.41.45:938][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-12.41.45:974][870]LogSavePackage: Save=14.78ms
+[2017.01.31-12.41.45:974][870]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim4D4F6E714BC5028DDFA8BE80A0FC1869.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-12.41.45:975][870]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-12.42.14:103][399]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-12.42.14:103][399]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.42.14:103][399]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-12.42.14:103][399]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.42.14:103][399]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-12.42.14:124][401]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-12.42.36:629][185]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.42.36:637][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.42.36:637][185]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:42:36 PM)
+[2017.01.31-12.42.36:637][185]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.42.36:640][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2017.01.31-12.42.36:640][185]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.42.36:640][185]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2017.01.31-12.42.36:641][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003278s)
+[2017.01.31-12.42.36:663][185]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.42.36:672][185]LogInit: FAudioDevice initialized.
+[2017.01.31-12.42.36:704][185]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.42.36:707][185]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.42.36
+[2017.01.31-12.42.36:708][185]LogWorld: Bringing up level for play took: 0.002502
+[2017.01.31-12.42.36:709][185]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.173
+[2017.01.31-12.42.42:075][588]LogEditorViewport: Clicking on Actor (LMB): MyGg_C (MyGg)
+[2017.01.31-12.42.42:471][609]LogEditorViewport: Clicking on Actor (LMB): MyGg_C (MyGg)
+[2017.01.31-12.43.25:002][378]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.43.25:010][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.43.25:010][378]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:43:25 PM)
+[2017.01.31-12.43.25:011][378]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.43.25:013][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002062s)
+[2017.01.31-12.43.25:013][378]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.43.25:013][378]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2017.01.31-12.43.25:013][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002852s)
+[2017.01.31-12.43.25:037][378]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.43.25:044][378]LogInit: FAudioDevice initialized.
+[2017.01.31-12.43.25:074][378]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.43.25:077][378]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.43.25
+[2017.01.31-12.43.25:077][378]LogWorld: Bringing up level for play took: 0.002385
+[2017.01.31-12.43.25:078][378]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.197
+[2017.01.31-12.43.41:647][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-12.43.41:692][515]LogSavePackage: Save=30.12ms
+[2017.01.31-12.43.41:692][515]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMap32BF18964D801072406C5B8D15F7A2F5.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-12.43.41:693][515]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-12.46.42:572][484]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-12.46.42:583][484]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:583][484]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:663][484]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:667][484]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:682][485]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:690][486]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:732][487]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:743][488]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:754][489]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:765][490]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:777][491]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:788][492]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:800][493]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:811][494]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:823][495]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:834][496]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:845][497]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:856][498]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-12.46.42:868][498]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.MyGgAnim_C_1
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:868][498]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:946][498]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:950][498]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:964][499]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.42:972][500]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:011][501]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:023][502]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:034][503]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:045][504]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:057][505]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:068][506]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:080][507]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:090][508]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:103][509]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:113][510]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:125][511]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_2
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-12.46.43:387][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-12.46.43:406][530]LogSavePackage: Save=17.19ms
+[2017.01.31-12.46.43:406][530]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim2FD45E7D487696D2390E33B4CC04854C.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-12.46.43:406][530]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-12.46.44:763][650]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.46.44:771][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.46.44:772][650]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:46:44 PM)
+[2017.01.31-12.46.44:772][650]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.46.44:774][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002477s)
+[2017.01.31-12.46.44:775][650]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.46.44:775][650]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2017.01.31-12.46.44:775][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003390s)
+[2017.01.31-12.46.44:800][650]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.46.44:808][650]LogInit: FAudioDevice initialized.
+[2017.01.31-12.46.44:844][650]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.46.44:847][650]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.46.44
+[2017.01.31-12.46.44:848][650]LogWorld: Bringing up level for play took: 0.002791
+[2017.01.31-12.46.44:848][650]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.46.44:851][650]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.031
+[2017.01.31-12.46.44:866][650]LogRenderer: Reallocating scene render targets to support 1292x868 NumSamples 1 (Frame:99020).
+[2017.01.31-12.46.52:058][ 82]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.46.52:067][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.46.52:067][ 82]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:46:52 PM)
+[2017.01.31-12.46.52:067][ 82]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.46.52:070][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2017.01.31-12.46.52:070][ 82]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.46.52:070][ 82]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2017.01.31-12.46.52:070][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003321s)
+[2017.01.31-12.46.52:094][ 82]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.46.52:102][ 82]LogInit: FAudioDevice initialized.
+[2017.01.31-12.46.52:137][ 82]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.46.52:140][ 82]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.46.52
+[2017.01.31-12.46.52:141][ 82]LogWorld: Bringing up level for play took: 0.002542
+[2017.01.31-12.46.52:141][ 82]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.46.52:143][ 82]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.739
+[2017.01.31-12.47.09:228][126]LogEditorViewport: Clicking on Actor (LMB): MyGg_C (MyGg2)
+[2017.01.31-12.47.10:142][175]Cmd: DELETE
+[2017.01.31-12.47.10:142][175]Cmd: ACTOR DELETE
+[2017.01.31-12.47.10:143][175]LogEditorActor: Deleted Actor: MyGg_C
+[2017.01.31-12.47.10:160][175]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.01.31-12.47.12:127][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.01.31-12.47.15:434][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.01.31-12.47.48:126][115]BlueprintLog: New page: Compile cammy
+[2017.01.31-12.47.48:164][115]LogUObjectGlobals:Warning: Guid referenced by SceneComponent /Game/NewMap.NewMap:PersistentLevel.cammy_2.SceneComponent is already used by SceneComponent /Game/NewMap.NewMap:PersistentLevel.REINST_cammy_C_0.SceneComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.47.48:164][115]LogUObjectGlobals:Warning: Guid referenced by CameraComponent /Game/NewMap.NewMap:PersistentLevel.cammy_2.CameraComponent is already used by CameraComponent /Game/NewMap.NewMap:PersistentLevel.REINST_cammy_C_0.CameraComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.31-12.47.48:921][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/cammy" FILE="../../../../Unreal/MyWork/Content/Bp/cammy.uasset" SILENT=true
+[2017.01.31-12.47.48:929][138]LogSavePackage: Save=7.68ms
+[2017.01.31-12.47.48:929][138]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/cammy92C8C3E343F71D5E9B7C18ADBBFE1BE4.tmp' to '../../../../Unreal/MyWork/Content/Bp/cammy.uasset'
+[2017.01.31-12.47.48:930][138]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/cammy.uasset
+[2017.01.31-12.48.07:723][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-12.48.07:845][  2]LogSavePackage: Save=105.60ms
+[2017.01.31-12.48.07:845][  2]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMapA9070B0C4A24D8F792000EA6012123D1.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-12.48.07:846][  2]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-12.50.37:827][626]BlueprintLog: New page: Compile NewMap
+[2017.01.31-12.50.44:221][265]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-12.50.44:221][265]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.50.44:221][265]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-12.50.44:221][265]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-12.50.44:221][265]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-12.50.44:229][266]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-12.50.44:229][266]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-12.50.44:230][266]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-12.50.44:230][266]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-12.50.44:230][266]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-12.50.44:230][266]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-12.50.44:230][266]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-12.54.51:835][466]BlueprintLog: New page: Compile NewMap
+[2017.01.31-12.54.52:410][523]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.54.52:419][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.54.52:419][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.54.52:419][523]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:54:52 PM)
+[2017.01.31-12.54.52:419][523]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.54.52:422][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002951s)
+[2017.01.31-12.54.52:423][523]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.54.52:423][523]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2017.01.31-12.54.52:423][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003884s)
+[2017.01.31-12.54.52:477][523]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.54.52:486][523]LogInit: FAudioDevice initialized.
+[2017.01.31-12.54.52:514][523]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.54.52:517][523]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.54.52
+[2017.01.31-12.54.52:517][523]LogWorld: Bringing up level for play took: 0.002193
+[2017.01.31-12.54.52:518][523]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.54.52:520][523]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.361
+[2017.01.31-12.54.52:520][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.54.59:000][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.54.59:107][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.11:197][333]BlueprintLog: New page: Compile NewMap
+[2017.01.31-12.55.11:936][410]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.55.11:944][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.11:944][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.55.11:944][410]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:55:11 PM)
+[2017.01.31-12.55.11:944][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.55.11:946][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2017.01.31-12.55.11:947][410]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.55.11:947][410]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2017.01.31-12.55.11:947][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003614s)
+[2017.01.31-12.55.11:999][410]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.55.12:006][410]LogInit: FAudioDevice initialized.
+[2017.01.31-12.55.12:036][410]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.55.12:039][410]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.55.12
+[2017.01.31-12.55.12:039][410]LogWorld: Bringing up level for play took: 0.002025
+[2017.01.31-12.55.12:039][410]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.55.12:041][410]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.84
+[2017.01.31-12.55.12:042][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.15:047][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.15:154][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.21:817][377]BlueprintLog: New page: Compile NewMap
+[2017.01.31-12.55.22:487][446]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.55.22:495][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.22:495][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.55.22:495][446]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:55:22 PM)
+[2017.01.31-12.55.22:495][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.55.22:498][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2017.01.31-12.55.22:498][446]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.55.22:499][446]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.01.31-12.55.22:499][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003273s)
+[2017.01.31-12.55.22:550][446]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.55.22:559][446]LogInit: FAudioDevice initialized.
+[2017.01.31-12.55.22:591][446]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.55.22:594][446]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.55.22
+[2017.01.31-12.55.22:594][446]LogWorld: Bringing up level for play took: 0.001967
+[2017.01.31-12.55.22:594][446]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.55.22:596][446]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.286
+[2017.01.31-12.55.22:597][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.26:264][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.26:358][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.55.46:873][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-12.55.47:036][ 43]LogSavePackage: Save=120.62ms
+[2017.01.31-12.55.47:036][ 43]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMap967B81154CD90E60E1F51DAE97807D75.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-12.55.47:037][ 43]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-12.55.49:825][161]LogEditorViewport: Clicking on Actor (LMB): cammy_C (cammy)
+[2017.01.31-12.56.04:882][399]BlueprintLog: New page: Compile cammy
+[2017.01.31-12.56.06:380][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-12.56.06:516][443]LogSavePackage: Save=118.77ms
+[2017.01.31-12.56.06:516][443]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMap69E411754321B01693810CBCCB009806.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-12.56.06:517][443]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-12.56.08:959][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/cammy" FILE="../../../../Unreal/MyWork/Content/Bp/cammy.uasset" SILENT=true
+[2017.01.31-12.56.08:967][597]LogSavePackage: Save=7.05ms
+[2017.01.31-12.56.08:967][597]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/cammy4CDB5DE44E0A3D493282E6958D539D02.tmp' to '../../../../Unreal/MyWork/Content/Bp/cammy.uasset'
+[2017.01.31-12.56.08:968][597]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/cammy.uasset
+[2017.01.31-12.56.20:122][534]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.56.20:131][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.20:131][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.56.20:131][534]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:56:20 PM)
+[2017.01.31-12.56.20:131][534]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.56.20:134][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003282s)
+[2017.01.31-12.56.20:135][534]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.56.20:135][534]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2017.01.31-12.56.20:135][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004100s)
+[2017.01.31-12.56.20:186][534]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.56.20:194][534]LogInit: FAudioDevice initialized.
+[2017.01.31-12.56.20:228][534]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.56.20:230][534]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.56.20
+[2017.01.31-12.56.20:231][534]LogWorld: Bringing up level for play took: 0.002068
+[2017.01.31-12.56.20:232][534]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.649
+[2017.01.31-12.56.20:232][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.22:480][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.22:555][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.24:383][874]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.56.24:391][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.24:391][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.56.24:391][874]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:56:24 PM)
+[2017.01.31-12.56.24:391][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.56.24:394][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002905s)
+[2017.01.31-12.56.24:394][874]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.56.24:395][874]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2017.01.31-12.56.24:395][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003718s)
+[2017.01.31-12.56.24:447][874]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.56.24:456][874]LogInit: FAudioDevice initialized.
+[2017.01.31-12.56.24:486][874]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.56.24:488][874]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.56.24
+[2017.01.31-12.56.24:489][874]LogWorld: Bringing up level for play took: 0.002048
+[2017.01.31-12.56.24:490][874]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.392
+[2017.01.31-12.56.24:490][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.26:711][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.26:777][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.29:907][280]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.56.29:915][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.29:915][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.56.29:915][280]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:56:29 PM)
+[2017.01.31-12.56.29:915][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.56.29:918][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002747s)
+[2017.01.31-12.56.29:919][280]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.56.29:919][280]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2017.01.31-12.56.29:919][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003711s)
+[2017.01.31-12.56.29:968][280]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.56.29:977][280]LogInit: FAudioDevice initialized.
+[2017.01.31-12.56.30:006][280]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.56.30:009][280]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.56.30
+[2017.01.31-12.56.30:010][280]LogWorld: Bringing up level for play took: 0.001935
+[2017.01.31-12.56.30:011][280]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.871
+[2017.01.31-12.56.30:011][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.33:210][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.33:283][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.48:930][ 25]BlueprintLog: New page: Compile cammy
+[2017.01.31-12.56.49:670][ 44]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.56.49:678][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.49:678][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.56.49:678][ 44]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:56:49 PM)
+[2017.01.31-12.56.49:679][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.56.49:682][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2017.01.31-12.56.49:682][ 44]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.56.49:682][ 44]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2017.01.31-12.56.49:682][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003776s)
+[2017.01.31-12.56.49:731][ 44]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.56.49:739][ 44]LogInit: FAudioDevice initialized.
+[2017.01.31-12.56.49:770][ 44]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.56.49:773][ 44]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.56.49
+[2017.01.31-12.56.49:773][ 44]LogWorld: Bringing up level for play took: 0.002045
+[2017.01.31-12.56.49:773][ 44]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.56.49:775][ 44]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.894
+[2017.01.31-12.56.49:775][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.53:114][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.53:219][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.58:671][740]BlueprintLog: New page: Compile cammy
+[2017.01.31-12.56.59:326][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/cammy" FILE="../../../../Unreal/MyWork/Content/Bp/cammy.uasset" SILENT=true
+[2017.01.31-12.56.59:334][751]LogSavePackage: Save=7.08ms
+[2017.01.31-12.56.59:334][751]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/cammy95E41C3C49371E9BC3B4BEBA1C743D06.tmp' to '../../../../Unreal/MyWork/Content/Bp/cammy.uasset'
+[2017.01.31-12.56.59:334][751]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/cammy.uasset
+[2017.01.31-12.56.59:983][811]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-12.56.59:991][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.56.59:991][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-12.56.59:991][811]PIE: New page: PIE session: NewMap (Jan 31, 2017, 8:56:59 PM)
+[2017.01.31-12.56.59:991][811]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-12.56.59:994][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002843s)
+[2017.01.31-12.56.59:994][811]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-12.56.59:995][811]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.01.31-12.56.59:995][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003786s)
+[2017.01.31-12.57.00:045][811]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-12.57.00:053][811]LogInit: FAudioDevice initialized.
+[2017.01.31-12.57.00:084][811]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-12.57.00:087][811]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-16.57.00
+[2017.01.31-12.57.00:087][811]LogWorld: Bringing up level for play took: 0.001907
+[2017.01.31-12.57.00:088][811]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-12.57.00:089][811]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.792
+[2017.01.31-12.57.00:090][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.57.04:101][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-12.57.04:216][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.02.54:849][ 38]BlueprintLog: New page: Compile MyGg
+[2017.01.31-13.02.54:857][ 38]LogBlueprint:Error: [Compiler MyGg] Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.01.31-13.02.55:220][ 38]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.01.31-13.02.55:220][ 38]LogBlueprint:Warning: [Compiler MyGg] Warning [3998.62] Compile of MyGg failed. 1 Fatal Issue(s) 0 Warning(s) [in 371 ms] (/Game/Bp/MyGg.MyGg)
+[2017.01.31-13.03.38:365][ 46]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.04.01:228][716]BlueprintLog: New page: Compile MyGg
+[2017.01.31-13.04.01:236][716]LogBlueprint:Error: [Compiler MyGg] Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.01.31-13.04.01:400][716]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.01.31-13.04.01:400][716]LogBlueprint:Warning: [Compiler MyGg] Warning [4064.80] Compile of MyGg failed. 1 Fatal Issue(s) 0 Warning(s) [in 171 ms] (/Game/Bp/MyGg.MyGg)
+[2017.01.31-13.04.10:254][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-13.04.10:280][751]LogSavePackage: Save=24.64ms
+[2017.01.31-13.04.10:280][751]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgB45D215C49869B2B60E8E7BB66F6E539.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-13.04.10:281][751]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-13.04.31:854][242]BlueprintLog: New page: Compile MyGg
+[2017.01.31-13.04.32:376][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-13.04.32:403][288]LogSavePackage: Save=25.90ms
+[2017.01.31-13.04.32:403][288]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgABF73D2A49B52D7DD5D655BB47D75E26.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-13.04.32:404][288]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-13.04.35:621][673]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.04.35:629][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.04.35:629][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.04.35:629][673]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:04:35 PM)
+[2017.01.31-13.04.35:629][673]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.04.35:632][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002806s)
+[2017.01.31-13.04.35:633][673]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.04.35:633][673]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2017.01.31-13.04.35:633][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003885s)
+[2017.01.31-13.04.35:682][673]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.04.35:691][673]LogInit: FAudioDevice initialized.
+[2017.01.31-13.04.35:721][673]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.04.35:724][673]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.04.35
+[2017.01.31-13.04.35:724][673]LogWorld: Bringing up level for play took: 0.002245
+[2017.01.31-13.04.35:725][673]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-13.04.35:727][673]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.846
+[2017.01.31-13.04.35:727][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.04.48:684][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.04.48:799][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.01:547][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-13.05.01:567][928]LogSavePackage: Save=18.60ms
+[2017.01.31-13.05.01:567][928]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgF25AB0874BAC1A888B03BBB7DEA4AE0C.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-13.05.01:568][928]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-13.05.10:835][303]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-13.05.10:835][303]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.05.10:835][303]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-13.05.10:835][303]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.05.10:835][303]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-13.05.10:846][304]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-13.05.32:208][216]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.05.32:217][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.32:217][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.05.32:217][216]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:05:32 PM)
+[2017.01.31-13.05.32:217][216]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.05.32:220][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2017.01.31-13.05.32:221][216]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.05.32:221][216]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.01.31-13.05.32:221][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003916s)
+[2017.01.31-13.05.32:272][216]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.05.32:280][216]LogInit: FAudioDevice initialized.
+[2017.01.31-13.05.32:310][216]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.05.32:313][216]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.05.32
+[2017.01.31-13.05.32:313][216]LogWorld: Bringing up level for play took: 0.002098
+[2017.01.31-13.05.32:314][216]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.567
+[2017.01.31-13.05.32:315][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.35:215][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.35:312][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.37:120][613]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.05.37:128][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.37:128][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.05.37:128][613]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:05:37 PM)
+[2017.01.31-13.05.37:128][613]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.05.37:131][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002962s)
+[2017.01.31-13.05.37:132][613]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.05.37:132][613]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2017.01.31-13.05.37:132][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003926s)
+[2017.01.31-13.05.37:186][613]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.05.37:194][613]LogInit: FAudioDevice initialized.
+[2017.01.31-13.05.37:228][613]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.05.37:231][613]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.05.37
+[2017.01.31-13.05.37:231][613]LogWorld: Bringing up level for play took: 0.002158
+[2017.01.31-13.05.37:233][613]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.351
+[2017.01.31-13.05.37:233][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.38:851][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.38:926][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.05.42:752][921]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-13.05.42:752][921]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.05.42:752][921]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-13.05.42:752][921]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.05.42:752][921]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-13.05.42:764][922]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-13.06.48:015][836]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.06.48:025][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.06.48:025][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.06.48:025][836]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:06:48 PM)
+[2017.01.31-13.06.48:025][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.06.48:028][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2017.01.31-13.06.48:029][836]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.06.48:029][836]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.01.31-13.06.48:029][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003966s)
+[2017.01.31-13.06.48:081][836]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.06.48:090][836]LogInit: FAudioDevice initialized.
+[2017.01.31-13.06.48:122][836]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.06.48:125][836]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.06.48
+[2017.01.31-13.06.48:126][836]LogWorld: Bringing up level for play took: 0.002087
+[2017.01.31-13.06.48:128][836]LogTexture:Display: Building textures: VirtualJoystick_Thumb (BGRA8)
+[2017.01.31-13.06.48:129][836]LogTexture:Display: Building textures: VirtualJoystick_Background (BGRA8)
+[2017.01.31-13.06.48:167][836]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.715
+[2017.01.31-13.06.48:167][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.06.52:981][373]Set new viewmode: Wireframe
+[2017.01.31-13.06.53:813][470]Set new viewmode: Wireframe
+[2017.01.31-13.06.55:097][624]Set new viewmode: Wireframe
+[2017.01.31-13.06.55:563][680]Set new viewmode: Wireframe
+[2017.01.31-13.06.56:430][784]Set new viewmode: Wireframe
+[2017.01.31-13.06.56:979][850]Set new viewmode: Wireframe
+[2017.01.31-13.06.57:355][895]Set new viewmode: Wireframe
+[2017.01.31-13.06.57:796][948]Set new viewmode: Wireframe
+[2017.01.31-13.06.58:480][ 30]Set new viewmode: Wireframe
+[2017.01.31-13.07.01:689][415]Set new viewmode: Wireframe
+[2017.01.31-13.07.02:048][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.02:113][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.06:906][628]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-13.07.06:906][628]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.07.06:906][628]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-13.07.06:906][628]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.07.06:906][628]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-13.07.06:917][629]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-13.07.35:843][806]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.07.35:853][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.35:853][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.07.35:853][806]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:07:35 PM)
+[2017.01.31-13.07.35:853][806]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.07.35:856][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003179s)
+[2017.01.31-13.07.35:857][806]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.07.35:857][806]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2017.01.31-13.07.35:857][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004147s)
+[2017.01.31-13.07.35:905][806]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.07.35:914][806]LogInit: FAudioDevice initialized.
+[2017.01.31-13.07.35:947][806]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.07.35:952][806]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.07.35
+[2017.01.31-13.07.35:953][806]LogWorld: Bringing up level for play took: 0.003931
+[2017.01.31-13.07.35:955][806]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 1.074
+[2017.01.31-13.07.35:955][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.40:405][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.40:483][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.43:653][429]LogEditorViewport: Clicking on Actor (LMB): cammy_C (cammy)
+[2017.01.31-13.07.48:715][664]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.07.48:724][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.48:724][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.07.48:724][664]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:07:48 PM)
+[2017.01.31-13.07.48:724][664]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.07.48:727][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002983s)
+[2017.01.31-13.07.48:728][664]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.07.48:728][664]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2017.01.31-13.07.48:728][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003735s)
+[2017.01.31-13.07.48:780][664]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.07.48:788][664]LogInit: FAudioDevice initialized.
+[2017.01.31-13.07.48:821][664]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.07.48:824][664]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.07.48
+[2017.01.31-13.07.48:824][664]LogWorld: Bringing up level for play took: 0.002149
+[2017.01.31-13.07.48:825][664]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.056
+[2017.01.31-13.07.48:825][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.51:399][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.51:477][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.55:283][104]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.07.55:292][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.07.55:292][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.07.55:293][104]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:07:55 PM)
+[2017.01.31-13.07.55:293][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.07.55:295][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002620s)
+[2017.01.31-13.07.55:296][104]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.07.55:296][104]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2017.01.31-13.07.55:296][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003355s)
+[2017.01.31-13.07.55:350][104]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.07.55:358][104]LogInit: FAudioDevice initialized.
+[2017.01.31-13.07.55:391][104]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.07.55:394][104]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.07.55
+[2017.01.31-13.07.55:394][104]LogWorld: Bringing up level for play took: 0.002066
+[2017.01.31-13.07.55:395][104]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.514
+[2017.01.31-13.07.55:396][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.02:228][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.02:309][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.07:562][758]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-13.08.07:562][758]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.08.07:562][758]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-13.08.07:562][758]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.08.07:572][759]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-13.08.07:581][760]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-13.08.28:403][474]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.08.28:412][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.28:413][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.08.28:413][474]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:08:28 PM)
+[2017.01.31-13.08.28:413][474]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.08.28:415][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002615s)
+[2017.01.31-13.08.28:416][474]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.08.28:416][474]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2017.01.31-13.08.28:416][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003366s)
+[2017.01.31-13.08.28:466][474]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.08.28:474][474]LogInit: FAudioDevice initialized.
+[2017.01.31-13.08.28:507][474]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.08.28:510][474]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.08.28
+[2017.01.31-13.08.28:510][474]LogWorld: Bringing up level for play took: 0.002133
+[2017.01.31-13.08.28:512][474]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.37
+[2017.01.31-13.08.28:512][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.31:328][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.31:407][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.08.34:599][789]Cmd: SELECT NONE
+[2017.01.31-13.08.35:066][810]Cmd: SELECT NONE
+[2017.01.31-13.08.41:011][ 39]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyWork
+
+[2017.01.31-13.08.41:011][ 39]LogTemp:Display: CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.08.41:011][ 39]LogTemp:Display: Initial Dir: D:\Ue4Games\UnrealEngine4
+
+[2017.01.31-13.08.41:011][ 39]LogTemp:Display: Env CWD: D:\Ue4Games\UnrealEngine4\Engine\Binaries\DotNet\IOS
+
+[2017.01.31-13.08.41:011][ 39]LogTemp:Display: BranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries --- GameBranchPath = LORDDROASM2/D/Ue4Games/UnrealEngine4/Engine/Binaries
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\user\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.31-13.08.41:033][ 41]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.31-13.09.00:768][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Unreal/MyWork/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.31-13.09.00:903][886]LogSavePackage: Save=117.54ms
+[2017.01.31-13.09.00:903][886]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewMap7F27BB694383DA2602C45EA130EAAEC9.tmp' to '../../../../Unreal/MyWork/Content/NewMap.umap'
+[2017.01.31-13.09.00:904][886]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/NewMap.umap
+[2017.01.31-13.09.01:401][904]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.09.01:410][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.01:410][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.09.01:411][904]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:09:01 PM)
+[2017.01.31-13.09.01:411][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.09.01:413][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2017.01.31-13.09.01:414][904]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.09.01:414][904]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.01.31-13.09.01:414][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003461s)
+[2017.01.31-13.09.01:439][904]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.09.01:447][904]LogInit: FAudioDevice initialized.
+[2017.01.31-13.09.01:479][904]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.09.01:482][904]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.09.01
+[2017.01.31-13.09.01:483][904]LogWorld: Bringing up level for play took: 0.001983
+[2017.01.31-13.09.01:484][904]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.602
+[2017.01.31-13.09.01:484][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.04:390][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.04:437][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.17:380][514]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-13.09.17:389][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.17:389][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-13.09.17:389][514]PIE: New page: PIE session: NewMap (Jan 31, 2017, 9:09:17 PM)
+[2017.01.31-13.09.17:389][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2017.01.31-13.09.17:392][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002910s)
+[2017.01.31-13.09.17:393][514]LogAIModule: Creating AISystem for world NewMap
+[2017.01.31-13.09.17:393][514]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2017.01.31-13.09.17:393][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003850s)
+[2017.01.31-13.09.17:417][514]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-13.09.17:425][514]LogInit: FAudioDevice initialized.
+[2017.01.31-13.09.17:458][514]LogLoad: Game class is 'MyGameMode_C'
+[2017.01.31-13.09.17:461][514]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.01.31-17.09.17
+[2017.01.31-13.09.17:461][514]LogWorld: Bringing up level for play took: 0.002030
+[2017.01.31-13.09.17:461][514]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.31-13.09.17:464][514]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.583
+[2017.01.31-13.09.17:464][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.30:005][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.30:071][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2017.01.31-13.09.45:361][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/NewBlendSpace1D" FILE="../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset" SILENT=true
+[2017.01.31-13.09.45:380][741]LogSavePackage: Save=18.06ms
+[2017.01.31-13.09.45:380][741]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/NewBlendSpace1D8B08149E4104C2DBE600B8BA8F24E033.tmp' to '../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset'
+[2017.01.31-13.09.45:381][741]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/NewBlendSpace1D.uasset
+[2017.01.31-13.09.52:432][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGg" FILE="../../../../Unreal/MyWork/Content/Bp/MyGg.uasset" SILENT=true
+[2017.01.31-13.09.52:452][449]LogSavePackage: Save=18.46ms
+[2017.01.31-13.09.52:452][449]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGg287A89684D5A291EBD28A19CDE9DB97D.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGg.uasset'
+[2017.01.31-13.09.52:452][449]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGg.uasset
+[2017.01.31-13.09.56:644][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-13.09.56:654][839]LogSavePackage: Save=9.23ms
+[2017.01.31-13.09.56:654][839]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim39E708BD414F4B4266363799DA3C37AD.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-13.09.56:655][839]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-13.10.10:773][920]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.11:520][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.12:649][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.13:780][923]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.14:692][924]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.15:502][925]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.01.31-13.10.48:021][466]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.01.31-13.10.48:144][466]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.01.31-13.10.57:435][239]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-13.10.57:446][239]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_3
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.10.58:348][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-13.10.58:367][301]LogSavePackage: Save=17.83ms
+[2017.01.31-13.10.58:367][301]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim7FAB14F04332675EB36D04B9BD2B0020.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-13.10.58:368][301]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-13.11.04:738][852]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-13.11.04:749][852]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_4
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:749][852]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.MyGgAnim_C_7
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:749][852]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:829][852]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:834][852]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:853][853]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:864][854]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:884][855]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:895][856]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:906][857]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:919][858]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:930][859]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:941][860]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:953][861]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:964][862]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:975][863]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:987][864]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.04:999][865]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.05:010][866]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_8
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.06:197][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-13.11.06:215][965]LogSavePackage: Save=16.99ms
+[2017.01.31-13.11.06:215][965]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim05269CC04466193F2299338B3FBAFD8A.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-13.11.06:216][965]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-13.11.10:186][307]BlueprintLog: New page: Compile MyGgAnim
+[2017.01.31-13.11.10:197][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_4
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:198][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_9
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:198][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.MyGgAnim_C_12
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:198][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:278][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:282][307]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:302][308]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:313][309]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:332][310]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:344][311]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:355][312]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:367][313]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:379][314]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:390][315]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:401][316]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:413][317]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:424][318]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:436][319]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:447][320]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:459][321]LogScript:Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	MyGgAnim_C /Engine/Transient.DebugSkelMeshComponent_9:MyGgAnim_C_13
+	Function /Game/Bp/MyGgAnim.MyGgAnim_C:ExecuteUbergraph_MyGgAnim:0040
+[2017.01.31-13.11.10:767][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bp/MyGgAnim" FILE="../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset" SILENT=true
+[2017.01.31-13.11.10:785][344]LogSavePackage: Save=16.85ms
+[2017.01.31-13.11.10:785][344]LogSavePackage: Moving '../../../../Unreal/MyWork/Saved/MyGgAnim66B90C2D4CE571B54B0CE58F985F57D6.tmp' to '../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset'
+[2017.01.31-13.11.10:786][344]LogSavePackage:Display: Finished SavePackage ../../../../Unreal/MyWork/Content/Bp/MyGgAnim.uasset
+[2017.01.31-13.11.11:695][409]LogUObjectBase:Warning: NULL object
+[2017.01.31-13.11.35:717][409]LogStats: FPlatformStackWalk::StackWalkAndDump - 24.022 s
+[2017.01.31-13.11.35:717][409]LogOutputDevice:Error: === Handled ensure: ===
+[2017.01.31-13.11.35:717][409]LogOutputDevice:Error: 
+[2017.01.31-13.11.35:717][409]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Ue4Games\UnrealEngine4\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 520]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: Object in KismetInspector is invalid, see TTP 281915
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: Stack: 
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\ue4games\unrealengine4\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:185]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\ue4games\unrealengine4\engine\source\runtime\core\private\misc\assertionmacros.cpp:216]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\ue4games\unrealengine4\engine\source\runtime\core\private\misc\assertionmacros.cpp:343]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Kismet.dll!SKismetInspector::UpdateFromObjects() [d:\ue4games\unrealengine4\engine\source\editor\kismet\private\skismetinspector.cpp:520]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Kismet.dll!SKismetInspector::Tick() [d:\ue4games\unrealengine4\engine\source\editor\kismet\private\skismetinspector.cpp:97]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:689]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SBorder::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:86]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SBorder::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:86]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:718][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWindow::OnPaint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swindow.cpp:1809]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\ue4games\unrealengine4\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1127]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::PrivateDrawWindows() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1367]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::DrawWindows() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1084]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::TickApplication() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1689]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::Tick() [d:\ue4games\unrealengine4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1481]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\ue4games\unrealengine4\engine\source\runtime\launch\private\launchengineloop.cpp:2894]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\ue4games\unrealengine4\engine\source\runtime\launch\private\launch.cpp:152]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\ue4games\unrealengine4\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\ue4games\unrealengine4\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:255]
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: KERNEL32.DLL
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: ntdll.dll
+[2017.01.31-13.11.35:719][409]LogOutputDevice:Error: 
+[2017.01.31-13.11.35:730][409]LogStats:                SubmitErrorReport -  0.000 s
